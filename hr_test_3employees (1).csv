@@ -1,0 +1,4 @@
+employee_id,overtime_hours,leave_days,participation_rate,output_consistency,tenure_months,survey_response
+E001,62,0,0.35,0.42,8,"I feel constantly stretched thin and rarely have time to recover between deadlines."
+E002,18,6,0.78,0.81,24,"Workload is steady and I feel supported by my team."
+E003,40,2,0.55,0.66,14,"Some weeks are heavy but overall I'm managing okay."
