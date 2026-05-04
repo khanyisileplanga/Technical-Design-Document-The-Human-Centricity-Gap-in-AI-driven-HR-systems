@@ -1,5 +1,6 @@
 HR Wellbeing System
 A generative AI application designed to detect burnout risk and support employee wellbeing in organisations.
+Author: Khanyisile Planga Course: Generative AI Demo: https://5006afb1-c8b7-4279-977c-5f54caae7262-00-6lwygc64j25a.janeway.replit.dev/
 
 What it does
 This system takes anonymised workforce data and uses Google Gemini to analyse burnout risk signals across both quantitative metrics and qualitative survey responses. It produces role-specific outputs for four distinct users, each with different levels of data access enforced at the application level.
@@ -36,8 +37,7 @@ Known limitations
 Ethical principles
 This system was designed around four core principles. Explainability: Every output includes a plain language explanation of the signals that drove it. Privacy: Individual employee data is never visible to managers. Consent, employees have full visibility into what data is collected about them and can flag inaccurate outputs. Accountability: Every system action is logged for audit purposes in line with EU AI Act requirements for high-risk AI systems.
 
-Author
-Built by Khanyisile Planga as a project exploring the human-centricity gap in AI-driven HR systems.
+
 
 
 
