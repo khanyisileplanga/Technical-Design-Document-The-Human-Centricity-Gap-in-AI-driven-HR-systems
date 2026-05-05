@@ -1,7 +1,7 @@
 HR Wellbeing System
 A generative AI application designed to detect burnout risk and support employee wellbeing in organisations.
-Author: Khanyisile Planga Course: Generative AI Demo: https://5006afb1-c8b7-4279-977c-5f54caae7262-00-6lwygc64j25a.janeway.replit.dev/
-
+Author: Khanyisile Planga Course: Generative AI Demo: [https://5006afb1-c8b7-4279-977c-5f54caae7262-00-6lwygc64j25a.janeway.replit.dev/
+](https://insidious-deadly-divisor--khanyicollabs.replit.app)
 What it does
 This system takes anonymised workforce data and uses Google Gemini to analyse burnout risk signals across both quantitative metrics and qualitative survey responses. It produces role-specific outputs for four distinct users, each with different levels of data access enforced at the application level.
 •	People Partner sees a full workforce risk report with individual assessments and explanations
